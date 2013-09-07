@@ -1,12 +1,12 @@
-===Django Easy
+###Django Easy
 some handy shortcuts for creating django views
 
-===Installation
+###Installation
 
     pip install django-easy
 
 
-===Usage
+###Usage
 	
     # views.py
     from easy.decorators import *
